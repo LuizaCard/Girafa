@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Indie+Flower&display=swap');
+body {
+	background-color: rgb(120,120,200);
+}
+img {
+	max-width: 13%;
+	border-radius: 10%;
+	width: 40%;
+	margin-left:20%;
+	float: left;
+}
+h1{
+	text-align: center;
+	color: yellow;
+	font-family: "Dancing Script", arial;
+}
+h2{
+	Color: white;
+	font-family: "Dancing Script", arial;
+	margin-left: 10%;
+}
+p{
+	color: white;
+	text-align: justify;
+	width: 80%;	
+	font-family: "Indie Flower", arial; 
+	margin-left: 5%;
+}
+.titulo{
+	margin-top:5%;
+	background-color: black;
+	
+}
+.audio1{
+	float:rigth;
+}
+video{
+	width: 15%;
+	margin-left:5%;
+	border-radius: 10%;
+}
+iframe{
+	border-radius: 10%;
+	float:rigth;
+	margin-left:5%;
+}
